@@ -1,0 +1,10 @@
+*.Rhistory
+*.RData
+*.Rproj.user/
+.Rproj
+output/
+data/
+*.rds
+*.Rds
+proseg_output/
+.DS_Store
